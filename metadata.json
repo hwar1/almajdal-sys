@@ -1,0 +1,6 @@
+{
+  "name": "موقع المجدل - نظام الطيبات",
+  "description": "منصة تفاعلية وطنية تركز على تطبيق نظام الطيبات والراحة الهضمية فسيولوجياً، مزودة بمؤشر الأطعمة ومساعد فحص فوري ومفكرة التزام يومي لحيوية جهازك الهضمي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
